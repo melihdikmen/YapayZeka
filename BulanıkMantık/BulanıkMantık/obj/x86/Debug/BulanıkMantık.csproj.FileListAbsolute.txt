@@ -1,0 +1,8 @@
+c:\users\melih\documents\visual studio 2010\Projects\BulanıkMantık\BulanıkMantık\bin\Debug\BulanıkMantık.exe
+c:\users\melih\documents\visual studio 2010\Projects\BulanıkMantık\BulanıkMantık\bin\Debug\BulanıkMantık.pdb
+c:\users\melih\documents\visual studio 2010\Projects\BulanıkMantık\BulanıkMantık\obj\x86\Debug\BulanıkMantık.Form1.resources
+c:\users\melih\documents\visual studio 2010\Projects\BulanıkMantık\BulanıkMantık\obj\x86\Debug\BulanıkMantık.Properties.Resources.resources
+c:\users\melih\documents\visual studio 2010\Projects\BulanıkMantık\BulanıkMantık\obj\x86\Debug\BulanıkMantık.csproj.GenerateResource.Cache
+c:\users\melih\documents\visual studio 2010\Projects\BulanıkMantık\BulanıkMantık\obj\x86\Debug\BulanıkMantık.exe
+c:\users\melih\documents\visual studio 2010\Projects\BulanıkMantık\BulanıkMantık\obj\x86\Debug\BulanıkMantık.pdb
+C:\Users\Melih\documents\visual studio 2010\Projects\BulanıkMantık\BulanıkMantık\obj\x86\Debug\BulanıkMantık.csprojResolveAssemblyReference.cache
